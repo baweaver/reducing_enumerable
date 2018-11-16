@@ -2,8 +2,8 @@
 
 Hey, welcome to the notes repository for my talk, Reducing Enumerable!
 
-Keynote Slides: https://drive.google.com/open?id=1qtGmqZuWtktIWs1WDaHGNGiAkgy1R4Xb
-PDF Slides: https://drive.google.com/open?id=1utrizgZTKdfW1gSZShMWgjjbE4LAzlNL
+* Keynote Slides: https://drive.google.com/open?id=1qtGmqZuWtktIWs1WDaHGNGiAkgy1R4Xb
+* PDF Slides: https://drive.google.com/open?id=1utrizgZTKdfW1gSZShMWgjjbE4LAzlNL
 
 ## What's in this repo?
 
