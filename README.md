@@ -2,7 +2,8 @@
 
 Hey, welcome to the notes repository for my talk, Reducing Enumerable!
 
-The slides will be made available soon, but be warned that they weigh in around 250M+ due to the amount of illustrations in the talk.
+Keynote Slides: https://drive.google.com/open?id=1qtGmqZuWtktIWs1WDaHGNGiAkgy1R4Xb
+PDF Slides: https://drive.google.com/open?id=1utrizgZTKdfW1gSZShMWgjjbE4LAzlNL
 
 ## What's in this repo?
 
@@ -20,9 +21,29 @@ This led to the original article the talk is based on:
 
 https://medium.com/@baweaver/reducing-enumerable-the-basics-fa042ce6806
 
-Now this is a series of talks, and does not have illustrations.
+Now this is a series of articles, and does not have illustrations.
+
+## What went into this?
+
+200+ hours of work, 50+ distinct illustrations, and 140 slides.
+
+I had written an article about the version of this talk delivered at Southeast Ruby in August:
+
+https://medium.com/@baweaver/creating-reducing-enumerable-an-illustrated-adventure-c6adfcc30d5b
+
+Note that since then I've redrawn most if not all of the significant slides in the talk, adding about 20 more illustrations on top of the original work done and several hours. That's the problem with being an artist, you always want to redo everything once you get better at a style.
+
+The talk was completely hand-illustrated by me using pencil, paper, an iPad Pro 12.9" with Apple Pencil, Illustrator Draw, and Keynote.
 
 ## Why Lemurs?
+
+### The longer version
+
+CW: Mental health
+
+https://medium.com/@baweaver/lemurs-mean-hope-ae5d01f95700
+
+### The shorter version
 
 Why not?
 
@@ -53,6 +74,10 @@ I'll be adding more to this section as I get time.
 I started with this Javascript article:
 
 https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624
+
+Eventually I translated it into Ruby:
+
+https://medium.com/@baweaver/understanding-transducers-in-ruby-209766372c39
 
 You might be interested in Rich Hickey's initial talk on the subject, which evolved out of Clojure.
 
