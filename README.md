@@ -5,6 +5,19 @@ Hey, welcome to the notes repository for my talk, Reducing Enumerable!
 * Keynote Slides: https://drive.google.com/open?id=1qtGmqZuWtktIWs1WDaHGNGiAkgy1R4Xb
 * PDF Slides: https://drive.google.com/open?id=1utrizgZTKdfW1gSZShMWgjjbE4LAzlNL
 
+## Novel Format
+
+I've started breaking this story down into various Medium posts to make it easier to read without needing full access to the slides. I've also adjusted and added a bit to the prose in certain places to round it out and make it into more of a story. Each segment is a 4 to 8 minute read.
+
+Temporary Note - Still working on doing this, will likely be done some time this weekend but will update this page and the articles table of contents as I get more parts finished.
+
+1. [The Journey Begins](https://medium.com/@baweaver/reducing-enumerable-part-one-the-journey-begins-ddc1d4108490)
+2. [Chartreuse — The Master of Map](https://medium.com/@baweaver/reducing-enumerable-part-two-chartreuse-master-of-map-7bc7fb3e6768)
+3. Indigo — The Master of Select
+4. Violet — The Master of Find
+5. Cerulean — The Master of Tally By
+6. A Final Lesson from Scarlet
+
 ## What's in this repo?
 
 In this repo you'll find some basic code examples from the talk and their associated specs. In the case of transducers, that's a bit more complicated and will be covered in the "Read More" section below.
