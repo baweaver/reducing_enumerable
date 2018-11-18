@@ -13,9 +13,9 @@ Temporary Note - Still working on doing this, will likely be done some time this
 
 1. [The Journey Begins](https://medium.com/@baweaver/reducing-enumerable-part-one-the-journey-begins-ddc1d4108490)
 2. [Chartreuse — The Master of Map](https://medium.com/@baweaver/reducing-enumerable-part-two-chartreuse-master-of-map-7bc7fb3e6768)
-3. Indigo — The Master of Select
-4. Violet — The Master of Find
-5. Cerulean — The Master of Tally By
+3. [Indigo — The Master of Select](https://medium.com/@baweaver/reducing-enumerable-part-three-indigo-master-of-select-332d8eb0b0bd)
+4. [Violet — The Master of Find](https://medium.com/@baweaver/reducing-enumerable-part-four-violet-master-of-find-436864d1712f)
+5. [Cerulean — The Master of Tally By](https://medium.com/@baweaver/reducing-enumerable-part-five-cerulean-master-of-tally-by-9d5f9e430bc2)
 6. A Final Lesson from Scarlet
 
 ## What's in this repo?
