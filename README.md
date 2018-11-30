@@ -2,6 +2,7 @@
 
 Hey, welcome to the notes repository for my talk, Reducing Enumerable!
 
+* RubyConf Talk Video: https://www.youtube.com/watch?v=x3b9KlzjJNM
 * Keynote Slides: https://drive.google.com/open?id=1qtGmqZuWtktIWs1WDaHGNGiAkgy1R4Xb
 * PDF Slides: https://drive.google.com/open?id=1utrizgZTKdfW1gSZShMWgjjbE4LAzlNL
 
