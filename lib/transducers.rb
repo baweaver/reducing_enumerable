@@ -34,7 +34,7 @@ end
   .reduce([], &filtering { |v| v.even? }.call(concats))
   # => [6, 12]
 
-# gem install ramda-ruby
+# `gem install ramda-ruby`
 require 'ramda'
 
 [1,2,3,4,5].reduce([], &Ramda.pipe(
