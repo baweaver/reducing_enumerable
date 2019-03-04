@@ -2,8 +2,13 @@ require_relative '../lib/find'
 
 RSpec.describe 'select' do
   it 'applies a function to every element of a list' do
-    expect(find([1,2,3]) { |v| v.even? }).to eq(2)
+    expect(find([1,2,3])  { |v| v.odd? }).to eq(1)
+    expect(find2([1,2,3]) { |v| v.odd? }).to eq(1)
+    expect(find3([1,2,3]) { |v| v.odd? }).to eq(1)
+
+    expect(find([1,2,3])  { |v| v.even? }).to eq(2)
     expect(find2([1,2,3]) { |v| v.even? }).to eq(2)
+    expect(find3([1,2,3]) { |v| v.even? }).to eq(2)
   end
 
   it 'returns nil if nothing was found' do
